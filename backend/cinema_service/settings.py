@@ -89,9 +89,6 @@ CORS_ALLOWED_ORIGINS = [
 ]
 
 
-CORS_ALLOW_CREDENTIALS = True
-
-
 WSGI_APPLICATION = "cinema_service.wsgi.application"
 
 
